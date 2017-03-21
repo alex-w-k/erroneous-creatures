@@ -1,6 +1,11 @@
 vampire_test.rb
 unicorn_test.rb
-
 pirate_test.rb
 hobbit_test.rb
 dragon_test.rb
+wizard_test.rb
+werewolf_test.rb
+hydra_test.rb
+centaur_test.rb
+hippogriff_test.rb
+medusa_test.rb
